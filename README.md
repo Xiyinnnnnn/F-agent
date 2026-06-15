@@ -1,4 +1,4 @@
-https://xiyinnnnnn.github.io/F-Agent/index.html
+https://xiyinnnnnn.github.io/F-agent/index.html
 # F-agent
 
 > 单文件自包含的 AI 对抗文本生成引擎。纯前端，无需构建，无需后端。
